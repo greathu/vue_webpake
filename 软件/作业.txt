@@ -1,0 +1,84 @@
+https://www.bt.cn/btcode.html
+
+Bt-Panel: http://47.245.2.181:8888/708a7830
+username: otkbjy3y
+password: ded0fa82
+
+
+Bt-Panel: http://121.199.72.23:8888/218e11bc
+username: jhveogme
+password: 8263fed8
+
+
+APP作业：作业个主页包括今天学习的内容
+Linux作业，预习项目2和3，总结项目7
+
+
+
+4BH9H-RJR8W-QR4FH-YKHXB-MG3MV   0ff1010激活
+
+ http://MICROSOF-CE0658/TDBIN/default.htm   TD网站
+
+
+
+
+
+cd D:\Program Files\Nox\bin
+nox_adb.exe connect 127.0.0.1:62001
+
+
+
+二、相对位置属性如下:
+
+
+layout_constraintLeft_toLeftOf :当前View的右侧和另一个View的右侧位置对齐，与RelativeLayout的alignLeft属性相似
+***
+layout_constraintLeft_toRightOf ***:当前view的左侧会在另一个View的右侧位置 与RelativeLayout的toRightOf属性相似
+
+layout_constraintRight_toLeftOf :当前view的右侧会在另一个View的左侧位置 与RelativeLayout的toLeftOf属性相似
+
+layout_constraintRight_toRightOf :当前View的右侧和另一个View的右侧位置对其，与RelativeLayout的alignRight属性相似
+
+layout_constraintTop_toTopOf :头部对齐，与alignTop相似
+
+layout_constraintTop_toBottomOf :当前View在另一个View的下侧 与below相似
+
+layout_constraintBottom_toTopOf :当前View在另一个View的上方 与above相似
+
+layout_constraintBottom_toBottomOf ：底部对齐，与alignBottom属性相似
+
+layout_constraintBaseline_toBaselineOf :文字底部对齐,与alignBaseLine属性相似
+
+layout_constraintStart_toEndOf :同left_toRightOf
+
+layout_constraintStart_toStartOf :同left_toLeftOf
+
+layout_constraintEnd_toStartOf :同right_toLeftOf
+
+layout_constraintEnd_toEndOf :同right_toRightOf
+
+
+java -jar fmw_12.2.1.3.0_wls_quick.jar -silent -responseFile /home/weblogic/wls.rsp -invPtrLoc /home/weblogic/oraInst.loc -ignoreSysPrereqs
+
+mkdir -p /home/weblogic/oracle/Middleware/user_projects/domains/base_domain/
+
+
+
+
+CLASSPATH=/usr/java/jdk1.8.0_211-amd64/lib/tools.jar:/home/weblogic/Oracle/Middleware/Oracle_Home/wlserver/modules/features/wlst.wls.classpath.jar:
+
+PATH=/home/weblogic/Oracle/Middleware/Oracle_Home/wlserver/server/bin:/home/weblogic/Oracle/Middleware/Oracle_Home/wlserver/../oracle_common/modules/thirdparty/org.apache.ant/1.9.8.0.0/apache-ant-1.9.8/bin:/usr/java/jdk1.8.0_211-amd64/jre/bin:/usr/java/jdk1.8.0_211-amd64/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/weblogic/.local/bin:/home/weblogic/bin:/home/weblogic/Oracle/Middleware/Oracle_Home/wlserver/../oracle_common/modules/org.apache.maven_3.2.5/bin
+
+
+
+
+/home/weblogic/oracle_home/oracle_common/common/bin/wlst.sh basicWLSDomain.py .
+
+
+
+nohup ./startWebLogic.sh >> text &
+
+
+
+
+

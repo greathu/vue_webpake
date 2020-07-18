@@ -1,0 +1,5 @@
+net start OracleOraDb10g_home1TNSListener
+net start OracleServiceORCL
+rem net start OracleOraDb10g_home1iSQL*Plus
+rem net start OracleJobSchedulermyoracle
+net start OracleDBConsoleorcl

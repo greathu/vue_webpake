@@ -1,0 +1,11 @@
+比特币地址：353YxJQ6MkNv68j1TQicucsW53cJKip2Aw
+
+私密：L4PbTm4XorA33FjWiLWLyVn2sccfcTpvjCNsRiKett1D8eMiAQEJ
+
+bittube
+
+stratum+tcp://btc-eu.f2pool.com:3333
+
+wget https://github.com/fireice-uk/xmr-stak/releases/download/2.10.4/xmr-stak-linux-2.10.4-cpu.tar.xz
+
+xz -d xmr-stak-linux-2.10.4-cpu.tar.xz 

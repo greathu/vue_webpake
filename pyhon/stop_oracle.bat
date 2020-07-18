@@ -1,0 +1,5 @@
+net stop OracleOraDb10g_home1TNSListener
+net stop OracleServiceORCL
+rem net stop OracleOraDb10g_home1iSQL*Plus
+rem net stop OracleJobSchedulermyoracle
+net stop OracleDBConsoleorcl
